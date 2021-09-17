@@ -1,0 +1,11 @@
+.parent {
+border:0px solid black;
+max-width: 70%;
+margin: 5% auto;
+
+}
+.child {
+text-align:center;
+width:100%;
+
+}
