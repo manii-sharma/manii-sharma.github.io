@@ -1,11 +1,15 @@
 .parent {
 border:0px solid black;
 max-width: 70%;
-margin: 5% auto;
-
+margin: auto;
 }
+
 .child {
 text-align:center;
+margin-top: 4%;
 width:100%;
+}
 
+body{
+	background-color: #E6E6E0;
 }
